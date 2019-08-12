@@ -15,6 +15,10 @@ public class Calculator {
     public void method1(String name){
 
     }
+
+    public static double devide (double num1, int num2){
+        return num1/num2;
+    }
 }
 
 
